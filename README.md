@@ -10,7 +10,7 @@
 ---
 
 ### About me
-- 🏗️ 18+ years in IT infrastructure: datacenters, Disaster Recovery, cloud and security
+- 🏗️ 20+ years in IT infrastructure: datacenters, Disaster Recovery, cloud and security
 - 🤖 Now building AI agents and automation for businesses in the UAE and MENA
 - 📍 Abu Dhabi · Open to automation projects and consulting
 - 🧠 [One line on what you're building right now]
